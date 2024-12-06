@@ -33,7 +33,7 @@ I am passionate about building efficient software solutions and learning cutting
 ---
 
 ## 🌍 Let's Connect!  
-🔗 [**Portfolio Website**](#) *(Coming Soon)*  
+🔗 [**Portfolio Website**](https://praveena-relangi.github.io/praveena-relangi-portfolio/) 
 📫 **Email**: relangipraveena99@gmail.com  
 💼 [**LinkedIn**](https://www.linkedin.com/in/praveena-relangi-085383196/)  
 📱 **GitHub**: [**Praveena-relangi**](https://github.com/Praveena-relangi)
